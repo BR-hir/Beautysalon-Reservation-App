@@ -69,7 +69,7 @@ npm run start
 ```
 
 URL
-///////////////////amplify の URL を貼る
+///////////////////デプロイ後 の URL を貼る
 
 # Note
 
